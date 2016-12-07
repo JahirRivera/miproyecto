@@ -2,6 +2,7 @@
 
 class Imagen():
     def tamarindo(self):
+        print("1,2 y 3 ... tamarindo")
         pass
 
     def escala_grises(self):
