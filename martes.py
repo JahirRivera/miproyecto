@@ -13,6 +13,7 @@ class Imagen():
 
 class Sonido():
     def reproducir(self):
+        print("Reproduciendo...")
         pass
 
     def volumen(self):
