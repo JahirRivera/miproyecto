@@ -21,3 +21,11 @@ class Sonido():
 
     def fourier(self):
         pass
+
+class Video():
+    def adelantar(self):
+        print("Adelantando...")
+    def retroceder(self):
+        print("Retrocediendo...")
+    def stop(self):
+        print("Parando...")
